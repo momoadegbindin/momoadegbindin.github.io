@@ -27,23 +27,15 @@ latest_posts:
 
 # About
 
-I am an Operations Research scientist interested in optimization systems for scarce resource allocation under uncertainty.
-
-My work sits between mathematical optimization, production decision systems, and infrastructure-scale resource allocation.
+I am an Operations Research scientist interested in optimization systems for scarce resource allocation under uncertainty. My work sits between mathematical optimization, production decision systems, and infrastructure-scale resource allocation.
 
 ## Background
 
-My interest in resource allocation started during my master’s thesis at [School Name], where I worked on the classic vertex coloring problem under the guidance of [Professor 1] and [Professor 2].
-
-It became much more practical later in the workforce management industry, where I spent close to a decade architecting and building forecasting and large-scale autoscheduling systems for real operational environments.
-
-More recently, I worked at Amazon on reinforcement-learning-based inventory replenishment policy optimization.
+My interest in resource allocation started during my master’s thesis at [School Name], where I worked on the classic vertex coloring problem under the guidance of [Professor 1] and [Professor 2]. It became much more practical later in the workforce management industry, where I spent close to a decade architecting and building forecasting and large-scale autoscheduling systems for real operational environments. More recently, I worked at Amazon on reinforcement-learning-based inventory replenishment policy optimization.
 
 ## Research
 
-I am currently completing a Ph.D. in Operations Research at [University], advised by [Advisor Name].
-
-My research focuses on MIP solver performance variability, especially runtime tails, timeouts, and branch-and-bound behavior on difficult instances.
+I am currently completing a Ph.D. in Operations Research at [University], advised by [Advisor Name]. My research focuses on MIP solver performance variability, especially runtime tails, timeouts, and branch-and-bound behavior on difficult instances.
 
 ## Interests
 
