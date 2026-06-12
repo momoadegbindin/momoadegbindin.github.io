@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ithaca, NY</p>
@@ -44,16 +44,15 @@ I am currently completing a Ph.D. in Operations Research at [Cornell University]
 
 
 ---
-## Selected Projects
 
-### Scarce Compute Allocation Sandbox
-A production-style optimization framework for GPU workload scheduling, queueing, and cluster capacity policy evaluation. This repository simulates cluster environments to test and benchmark mathematical scheduling policies under resource constraints.
+## Current Project
 
-#### [Topology-Aware GPU Cluster Batch Scheduler](/projects/)
-An optimization module within the sandbox that minimizes cross-node network synchronization latency during large-scale distributed training runs. The engine maps parallel workloads onto multi-tier cluster fabrics by solving the underlying assignment problems.
-*   **Techniques:** Mixed-Integer Linear Programming (MILP), Benders Decomposition, Column Generation, Stochastic/Robust Optimization with recourse, Metaheuristics, and Discrete-Event Simulation.
-*   **Stack:** Python (Pyomo, SciPy), automated verification via `pytest`.
-*   **Status:** *In Active Development.* Currently implementing the multi-period recourse matrices and hardware topology networks.
+**[Scarce Compute Allocation Sandbox](/projects/)**  
+I am currently building a small research sandbox for compute-capacity allocation. The goal is to study scheduling and policy decisions under limited capacity, uncertain demand, queueing, and runtime constraints.
+
+The project combines ideas from mathematical programming, discrete-event simulation, and production systems design.
+
+Status: in active development.
 
 
 
