@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scarce Compute Allocation Sandbox
+title: Optimization framework for GPU workload scheduling
 description: optimization and simulation for compute-capacity decisions
 img: assets/img/DataCenter.jpg
 importance: 1
