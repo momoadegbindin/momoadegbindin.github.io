@@ -25,21 +25,33 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I build optimization systems for messy real-world decisions: who works when, where inventory should sit, how scarce resources should be allocated, and why mathematical programming solvers sometimes fail when production needs them most.
-I care about optimization systems that are mathematically sound, highly explainable, and reliably useful to the people who depend on them. 
+# About
 
-## Academic Training
+I am an Operations Research scientist interested in optimization systems for scarce resource allocation under uncertainty.
 
-### Ph.D., Operations Research | Cornell University
-My Ph.D. in Operations Research focuses on MIP solver performance variability: rare runtime tails, timeouts, and branch-and-bound trajectory changes on difficult instances. I have worked with SCIP internals in C++ and large-scale computational studies.
+My work sits between mathematical optimization, production decision systems, and infrastructure-scale resource allocation.
 
-### M.A.Sc., Computer Engineering | École Polytechnique de Montréal
-Prior to my doctoral track, I earned my Master's degree in Computer Engineering and my thesis focused on designing a greedy algorithm to the classic Vertex Coloring Problem (VCP).
+## Background
 
-### Industrial Experience
-Before graduate school, I spent close to a decade building production optimization systems for workforce management, scheduling, forecasting, and resource allocation (Kronos/Workbrain). The main system I worked on was a configurable MIP-based autoscheduler used across roughly 40 customer deployments and millions of scheduled employees/users. It replaced customer-specific scheduling logic with a reusable optimization engine and reduced schedule generation from days of manual planning to minutes.
+My interest in resource allocation started during my master’s thesis at [School Name], where I worked on the classic vertex coloring problem under the guidance of [Professor 1] and [Professor 2].
 
-Recently at Amazon, I scoped and built an end-to-end reinforcement learning framework for inventory replenishment policy optimization, with projected savings opportunities in the hundreds of millions if generalized at scale.
+It became much more practical later in the workforce management industry, where I spent close to a decade architecting and building forecasting and large-scale autoscheduling systems for real operational environments.
+
+More recently, I worked at Amazon on reinforcement-learning-based inventory replenishment policy optimization.
+
+## Research
+
+I am currently completing a Ph.D. in Operations Research at [University], advised by [Advisor Name].
+
+My research focuses on MIP solver performance variability, especially runtime tails, timeouts, and branch-and-bound behavior on difficult instances.
+
+## Interests
+
+- Large-scale scheduling
+- Resource allocation
+- Capacity planning
+- Simulation-based policy evaluation
+- Mathematical programming systems that remain reliable under production constraints
 
 
 ---
