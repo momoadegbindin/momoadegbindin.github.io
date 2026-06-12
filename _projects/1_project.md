@@ -16,7 +16,10 @@ The project will model workloads, queues, cluster capacity, and scheduling polic
 **Status:** in active development.  
 **Repository:** [GitHub](https://github.com/momoadegbindin/)
 
-## Initial design
+### Initial design
+The first version is organized around four layers:
 
-```text
-workloads → queue → scheduler → cluster state → metrics
+- **Workload generator**:creates synthetic jobs with resource needs, priorities, deadlines, and runtime uncertainty.
+- **Cluster model**: represents limited compute capacity, queue state, and operational constraints.
+- **Scheduling policies**: compares greedy, exact, and hybrid bounded-time scheduling approaches.
+- **Simulation and evaluation**: tests policies over time under congestion, failures, and changing demand.
