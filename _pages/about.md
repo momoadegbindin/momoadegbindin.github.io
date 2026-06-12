@@ -29,17 +29,18 @@ I am an Operations Research scientist interested in optimization systems for sca
 
 ## Background
 
-My interest in allocation problems started during my master’s thesis at [École Polytechnique de Montréal](https://www.polymtl.ca/), where I worked on the classic vertex coloring problem under the guidance of [Alain Hertz](https://www.gerad.ca/~alainh/) and [Martine Bellaiche](https://www.polymtl.ca/expertises/en/bellaiche-martine). It became much more practical later in the workforce management industry, where I spent close to a decade architecting and building forecasting and large-scale autoscheduling systems for real operational environments. More recently, I worked at Amazon on reinforcement-learning-based inventory replenishment policy optimization.
+My interest in allocation problems started during my master’s thesis at [École Polytechnique de Montréal](https://www.polymtl.ca/), where I worked on the classic vertex coloring problem under the guidance of [Alain Hertz](https://www.gerad.ca/~alainh/) and [Martine Bellaïche](https://www.polymtl.ca/expertises/en/bellaiche-martine). Later, I spent close to a decade, in the workforce management industry, architecting and building forecasting and large-scale autoscheduling systems for real operational environments. More recently, I worked at Amazon on reinforcement-learning-based inventory replenishment policy optimization.
 
 I am currently completing a Ph.D. in Operations Research at [Cornell University](https://www.duffield.cornell.edu/orie/), advised by [Brenda Dietrich](https://www.duffield.cornell.edu/people/brenda-lynn-dietrich/) and [Jamol Pender](https://www.duffield.cornell.edu/people/jamol-j-pender/). My research focuses on Mixed Integer Programming (MIP) solvers performance variability.
 
 ## Interests
 
-- Large-scale scheduling
 - Resource allocation
-- Capacity planning
+- Large-scale scheduling & Capacity planning
+- Forecasting 
 - Simulation-based policy evaluation
-- Mathematical programming systems that remain reliable under production constraints
+- Stochastic and robust optimization
+- Reliable Mathematical programming systems
 
 
 ---
