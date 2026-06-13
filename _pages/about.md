@@ -47,7 +47,7 @@ I am currently completing a Ph.D. in Operations Research at [Cornell University]
 
 ## Current Project
 
-**[Scarce Compute Allocation Sandbox](/projects/)**  
+**[Optimization framework for GPU workload scheduling](/projects/)**  
 I am currently building a small research sandbox for compute-capacity allocation. The goal is to study scheduling and policy decisions under limited capacity, uncertain demand, queueing, and runtime constraints.
 
 The project combines ideas from mathematical programming, discrete-event simulation, and production systems design.
