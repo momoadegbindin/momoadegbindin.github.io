@@ -340,7 +340,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Adegbindin]
-  first_name: [Mouhamed, Mourchid, M.]
+  first_name: [Mouhamed Mourchid, Mouhamed, Mourchid, M.]
 
   style: apa
   locale: en
