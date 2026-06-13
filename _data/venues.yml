@@ -7,3 +7,19 @@
 
 "Vision":
   color: "#009f36"
+  
+"IOS":
+  url: https://zenodo.org/records/19478202
+  color: "#8b5cf6"
+
+"YJOR":
+  url: https://doi.org/10.2298/yjor151102003a
+  color: "#22c55e"
+
+"POLY":
+  url: https://publications.polymtl.ca/1136/
+  color: "#f97316"
+
+"EMBC":
+  url: https://doi.org/10.1109/IEMBS.2011.6089890
+  color: "#06b6d4"
