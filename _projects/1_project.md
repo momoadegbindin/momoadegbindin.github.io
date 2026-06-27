@@ -36,7 +36,7 @@ The project is organized around four layers:
 
 ## Methods
 
-Mathematical programming, scheduling heuristics, queueing simulation, discrete-event simulation, and policy evaluation.
+Mathematical programming, scheduling heuristics, stochastic/robust optimization, queueing theory, discrete-event simulation, and policy evaluation.
 
 ## Status
 
