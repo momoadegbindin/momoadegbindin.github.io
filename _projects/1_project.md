@@ -8,10 +8,6 @@ category: work
 related_publications: false
 ---
 
-# Compute Capacity Orchestrator
-
-**Optimization and simulation for GPU workload scheduling**
-
 Compute Capacity Orchestrator is a research sandbox for studying GPU workload scheduling and compute-capacity decisions under uncertainty.
 
 The project models synthetic workloads, waiting queues, limited cluster capacity, and scheduling policies in a controlled simulation environment. The goal is to compare fast heuristics, optimization-based policies, and hybrid bounded-time decision rules under congestion, workload-mix changes, and capacity shocks.
