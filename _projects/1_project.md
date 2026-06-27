@@ -40,7 +40,6 @@ In active development.
 
 ## Repository
 
-GitHub.
 [GitHub](https://github.com/momoadegbindin/compute-capacity-orchestrator)
 
 
