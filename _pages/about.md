@@ -45,19 +45,18 @@ I am currently completing a Ph.D. in Operations Research at [Cornell University]
 
 ---
 
-## Current Project
+## Featured Project
 
+### Compute Capacity Orchestrator  
+**[Simulation-optimization for GPU workload scheduling and AI infrastructure performance modeling](/projects/)**  
 
+Compute Capacity Orchestrator is a public research-engineering project for studying how scarce GPU capacity should be allocated when jobs arrive over time, wait in queues, compete for limited accelerator resources, and require scheduling decisions within practical latency budgets.
 
-### Compute Capacity Orchestrator
+The current release includes greedy and exact snapshot schedulers, closed-loop simulation, decision validation, operational metrics, regression tests, and a Streamlit dashboard.
 
-**[Optimization and simulation for GPU workload scheduling](/projects/)**  
-
-I am currently building a research sandbox for GPU compute-capacity allocation. The project studies how limited GPU capacity can be scheduled when demand is uncertain, jobs wait in queues, workloads have different priorities, and optimization models must return decisions within practical time limits.
+The roadmap extends the system toward topology-aware GPU orchestration, including solver latency budgets, capacity fragmentation, GPU locality, NVLink and InfiniBand/Ethernet fabric effects, rolling-horizon scheduling, stochastic demand scenarios, and scale-up versus scale-out placement tradeoffs.
 
 The project combines ideas from mathematical programming, discrete-event simulation, and production systems design.
-
-Status: in active development.
 
 
 
