@@ -47,9 +47,11 @@ I am currently completing a Ph.D. in Operations Research at [Cornell University]
 
 ## Current Project
 
+
+
 ### Compute Capacity Orchestrator
 
-**[Optimization and simulation for GPU workload scheduling](/projects/1_project/)**  
+**[Optimization and simulation for GPU workload scheduling](/projects/)**  
 
 I am currently building a research sandbox for GPU compute-capacity allocation. The project studies how limited GPU capacity can be scheduled when demand is uncertain, jobs wait in queues, workloads have different priorities, and optimization models must return decisions within practical time limits.
 
