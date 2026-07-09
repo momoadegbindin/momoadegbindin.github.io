@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-![Compute Capacity Orchestrator hero](/assets/img/Compute_Capacity_Orchestrator.png)
+<img src="/assets/img/Compute_Capacity_Orchestrator.png" alt="Compute Capacity Orchestrator hero" width="100%">
 
 Compute Capacity Orchestrator (CCO) is a simulation-optimization framework for GPU workload scheduling, compute-capacity allocation, and AI infrastructure performance modeling.
 
