@@ -2,7 +2,7 @@
 layout: page
 title: Compute Capacity Orchestrator
 description: Optimization and simulation for GPU workload scheduling
-img: assets/img/DataCenter.jpg
+img: assets/img/Compute_Capacity_Orchestrator.png
 importance: 1
 category: work
 related_publications: false
