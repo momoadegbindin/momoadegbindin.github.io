@@ -76,4 +76,7 @@ Mathematical programming, scheduling heuristics, simulation optimization, queuei
 
 [GitHub](https://github.com/momoadegbindin/compute-capacity-orchestrator)
 
+## Live Demo
+
+[Interactive Dashboard](https://capacity-orchestrator.onrender.com)
 
